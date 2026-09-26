@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: task-manager
+    name: tasks
     runtime: node
     plan: free
     buildCommand: bun install --ignore-scripts && bun run build
@@ -14,8 +14,8 @@ services:
       - key: BETTER_AUTH_SECRET
         generateValue: true
       - key: BETTER_AUTH_URL
-        value: https://task-manager.mehedi.engineer
+        value: https://tasks.mehedi.engineer
       - key: BETTER_AUTH_TRUSTED_ORIGINS
-        value: https://task-manager.mehedi.engineer
+        value: https://tasks.mehedi.engineer
       - key: LOG_LEVEL
         value: info
