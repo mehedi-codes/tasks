@@ -1,16 +1,4 @@
-# Tasks API
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Node.js](https://img.shields.io/badge/Node.js-18+-3c873a?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh)
-[![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)](https://hono.dev)
-[![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)](https://orm.drizzle.team)
-[![Better Auth](https://img.shields.io/badge/Better_Auth-6B46C1?style=flat-square&logo=auth0&logoColor=white)](https://www.better-auth.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://neon.tech)
-[![Zod](https://img.shields.io/badge/Zod_4-2E4D9A?style=flat-square&logo=zod&logoColor=white)](https://zod.dev)
-[![Biome](https://img.shields.io/badge/Biome-60A5FA?style=flat-square&logo=biome&logoColor=white)](https://biomejs.dev)
-
-A production-ready REST API for managing tasks with user authentication, email workflows, and auto-generated OpenAPI documentation.
+[![Socialify](https://socialify.git.ci/mehedi-codes/tasks/image?description=1&font=JetBrains+Mono&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fmehedi-codes%2Ftasks%2Fmain%2Fpublic%2Flogo.svg&name=1&pattern=Solid&theme=Auto)](https://github.com/mehedi-codes/tasks)
 
 ## Features
 
